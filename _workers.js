@@ -1171,10 +1171,18 @@ async function updateAllIPs(env) {
   const urls = [
     'https://ip.164746.xyz', 
     'https://ip.haogege.xyz/',
+    'https://vps789.com/cfip/?remarks=ip/',
+    'https://cf.090227.xyz/ct/',
+    'https://cf.090227.xyz/cu/',
+    'https://cf.090227.xyz/cmcc/',
+    'https://cf.090227.xyz/CloudFlareYes/',
+    'https://cf.090227.xyz/ip.164746.xyz/',
+    'https://ipdb.api.030101.xyz/?type=bestcf&country=true/',
     'https://stock.hostmonit.com/CloudFlareYes', 
     'https://api.uouin.com/cloudflare.html',
     'https://addressesapi.090227.xyz/CloudFlareYes',
     'https://addressesapi.090227.xyz/ip.164746.xyz',
+    'https://raw.githubusercontent.com/946727185/auto-ip-update/refs/heads/main/bendituisong.txt',
     // 移除了以下两个网站
     // 'https://www.wetest.vip/page/edgeone/address_v4.html',
     // 'https://www.wetest.vip/page/cloudfront/address_v4.html',
@@ -1363,4 +1371,3 @@ function handleCORS() {
     }
   });
 }
-
